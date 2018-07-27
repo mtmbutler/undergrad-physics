@@ -1,0 +1,41 @@
+axes.linewidth		: 0.5
+grid.linewidth		: 0.5
+xtick.major.width	: 0.5
+xtick.minor.width	: 0.5
+ytick.major.width	: 0.5
+ytick.minor.width	: 0.5
+
+
+axes.spines.top		: False
+axes.spines.right	: False
+axes.autolimit_mode	: round_numbers
+axes.xmargin		: 0.00
+axes.ymargin        : 0.00
+axes.prop_cycle    	: cycler('color', ['0072BD', 'D95319', 'EDB120', '7E2F8E', '77AC30', '4DBEEE', 'A2142F'])
+
+lines.linewidth	: 2
+
+grid.color		: 0.75
+
+xtick.labelsize		: x-small
+xtick.direction		: in
+
+ytick.labelsize		: x-small
+ytick.direction		: in
+
+font.size			: 13.0
+font.serif 			: Charter
+font.sans-serif		: Arial
+font.family			: serif
+
+mathtext.fontset	: cm
+mathtext.cal		: cursive
+mathtext.rm 		: serif
+mathtext.tt 		: monospace
+mathtext.it 		: serif:italic
+mathtext.bf 		: serif:bold
+mathtext.sf 		: sans
+
+text.usetex	: False
+
+savefig.format		: pdf
